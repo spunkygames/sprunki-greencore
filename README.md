@@ -1,33 +1,33 @@
-# ESprunki
+# Sprunki GreenCore
 
-ESprunki is a captivating online music game that lets you create unique beats and melodies with a simple drag-and-drop interface.  Explore various sound combinations, record your mixes, and share your musical creations with the world! Play ESprunki Now: [https://esprunki.com/](https://esprunki.com/)
+Sprunki GreenCore is a free online music game where you create unique beats and melodies using a vibrant, nature-themed interface. Experiment with different sound combinations, record your mixes, and share your creations with the world. Play Sprunki GreenCore Now: [https://spunky.games/sprunki-greencore](https://spunky.games/sprunki-greencore)
 
 ---
 
 ## Table of Contents
 
-1. [What is ESprunki?](#what-is-esprunki)
-2. [How to Play ESprunki](#how-to-play-esprunki)
+1. [What is Sprunki GreenCore?](#what-is-sprunki-greencore)
+2. [How to Play Sprunki GreenCore](#how-to-play-sprunki-greencore)
 3. [Features](#features)
 4. [Frequently Asked Questions (FAQ)](#faq)
 
 ---
 
-## What is ESprunki?
+## What is Sprunki GreenCore?
 
-ESprunki is a free, browser-based music game inspired by InCrediBox, designed to be intuitive and fun for users of all ages.  With its engaging gameplay and diverse sound library, ESprunki empowers you to become a virtual beatmaker, crafting unique musical compositions with ease.  Key features include a drag-and-drop interface, a wide selection of sounds, online sharing capabilities, and no required downloads.
+Sprunki GreenCore is a browser-based music creation game, offering a unique and engaging way to make music with a focus on nature-inspired sounds and visuals.  With its intuitive drag-and-drop interface, players can easily combine different musical elements to create their own compositions.  No downloads are required, making it accessible to anyone with a web browser.
 
 ---
 
-## How to Play ESprunki
+## How to Play Sprunki GreenCore
 
-1. **Access the Game:** Go to [https://esprunki.com/](https://esprunki.com/) to start playing directly in your browser.
-2. **Choose Your Characters:**  Drag and drop the animated characters onto the stage. Each character represents a different sound or musical element.
-3. **Experiment with Sounds:**  Combine different characters to create your unique beat. Experiment with different rhythms and melodies.
-4. **Record Your Mix:** Once you're satisfied with your creation, use the built-in recording feature to capture your masterpiece.
-5. **Share Your Music:** Share your recorded tracks with friends and family through social media or other online platforms.
-6. **Explore and Discover:**  Unlock new characters and sounds as you progress through the game, expanding your creative possibilities.
-7. **Refine Your Beats:** Continuously experiment and refine your mixes to develop your musical style.
+1. **Launch the Game:** Visit [https://spunky.games/sprunki-greencore](https://spunky.games/sprunki-greencore) to start playing instantly in your browser.
+2. **Interact with the Environment:** Drag and drop the interactive elements onto the screen. These elements might represent different natural sounds, instruments, or musical loops.
+3. **Combine Sounds:** Experiment with combining various elements to create your unique soundscapes and melodies. Explore different rhythms and harmonies.
+4. **Record Your Mix:** Use the in-game recording functionality to capture your musical creations.
+5. **Share Your Music:**  Share your recorded tracks online with friends and the wider community.
+6. **Discover New Elements:**  As you progress, you might unlock new interactive elements and sounds, expanding your creative possibilities.
+7. **Develop Your Style:** Continue experimenting and refining your mixes to craft your own distinctive musical style within the GreenCore environment.
 
 ---
 
@@ -35,34 +35,34 @@ ESprunki is a free, browser-based music game inspired by InCrediBox, designed to
 
 | Feature | Description |
 |---|---|
-| **Intuitive Drag-and-Drop Interface** | Easily create music by dragging and dropping characters. |
-| **Diverse Sound Library** | Explore a wide range of unique sounds and musical elements. |
-| **Online Sharing** | Share your musical creations with the world. |
-| **No Download Required** | Play instantly in your web browser. |
-| **Free to Play** | Enjoy the full ESprunki experience without any cost. |
-| **Cross-Platform Compatibility** | Play on any device with a modern web browser. |
-| **Regular Updates** |  Enjoy fresh content and improvements with ongoing updates.  |
-| **Engaging Visuals** |  Immerse yourself in the vibrant and dynamic animations. |
-| **Creative Freedom** |  Experiment and express your unique musical style. |
-| **Easy to Learn, Difficult to Master** | Accessible to beginners, with plenty of depth for experienced users. |
+| **Intuitive Drag-and-Drop Interface** |  Create music effortlessly by dragging and dropping elements. |
+| **Nature-Inspired Sound Library** | Explore a collection of sounds inspired by nature and the environment. |
+| **Online Sharing Capabilities** | Easily share your musical creations with others. |
+| **No Download Necessary** | Play directly in your browser without any installation. |
+| **Free to Play** |  Enjoy the complete Sprunki GreenCore experience for free.  |
+| **Cross-Platform Compatibility** | Play on various devices with a modern web browser. |
+| **Visually Engaging Nature Theme** | Immerse yourself in a visually appealing and relaxing environment. |
+| **Creative Exploration** | Experiment with different sound combinations and discover your musical style.  |
+| **Easy to Learn, Room to Grow** |  Accessible to beginners, with enough depth for experienced creators to explore. |
 
 
 ---
-
 
 ## Frequently Asked Questions (FAQ)
 
-1. **Is ESprunki free to play?**  Yes, ESprunki is completely free to play.
-2. **Do I need to download anything to play ESprunki?** No, ESprunki is a browser-based game, so you can play it directly in your web browser without any downloads.
-3. **What devices can I play ESprunki on?** You can play ESprunki on any device with a modern web browser, including computers, tablets, and smartphones.
-4. **How do I share my ESprunki creations?**  Use the in-game sharing options to share your music on social media or other online platforms.
-5. **Can I save my ESprunki mixes?** Yes, you can typically save your mixes locally or potentially through online accounts if offered by the platform.
-6. **Are there different levels or stages in ESprunki?**  The game might offer progression through unlocking new sounds and characters.  Check the game itself for details.
-7. **What is the inspiration for ESprunki?** ESprunki is inspired by the popular music game InCrediBox. Check out [Sprunki InCrediBox](https://sprunkiy.com) for a similar experience.
-8. **Where can I find more information about Spunky Games?**  Visit the official website: [https://spunky.games](https://spunky.games).
-9. **Is there a mobile app for ESprunki?**  While there might not be a dedicated app, the game should be accessible through your mobile browser.
-10. **How can I contact the developers of ESprunki?** Contact information may be available on the game's website or related Spunky Games resources. For a related game, you can explore [ESprunki InCrediBox](https://esprunki.com/esprunki-incredibox).
+1. **Is Sprunki GreenCore free?**  Yes, Sprunki GreenCore is completely free to play.
+2. **Do I need to install anything to play?** No, it's a browser-based game, so no installation is required.
+3. **What devices can I play Sprunki GreenCore on?**  It can be played on any device with a compatible web browser.
+4. **How do I share my music?**  Use the in-game sharing options.
+5. **Can I save my mixes?**  Saving options might vary; typically, you can save locally or potentially through online accounts, depending on the platform's features.
+6. **Does Sprunki GreenCore have different levels or stages?** The game might feature progression through unlocking new sounds and elements.  Check the game for specific details.
+7. **What was the inspiration for Sprunki GreenCore?**  The game draws inspiration from music creation tools and a focus on nature and environmental sounds. You might also enjoy similar games like [Sprunki InCredibox](https://sprunki.es/).
+8. **Where can I learn more about Spunky Games?** Visit the official Spunky Games website: [https://spunky.games](https://spunky.games).  For another game from Spunky Games, check out the [ESprunki Game](https://esprunki.com/).
+9. **Is there a mobile app for Sprunki GreenCore?** While a dedicated app may not exist, you should be able to play the game through a mobile browser.
+10. **How can I contact the developers?**  Look for contact information on the game's website or related resources.
+
+
 
 ---
 
-Ready to create your own Sprunky beats? Play ESprunki now! [https://esprunki.com/](https://esprunki.com/)
+Explore the sounds of nature and create your own unique rhythms! Play Sprunki GreenCore now: [https://spunky.games/sprunki-greencore](https://spunky.games/sprunki-greencore)
