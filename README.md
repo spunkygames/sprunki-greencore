@@ -1,6 +1,6 @@
 # Sprunki GreenCore
 
-Sprunki GreenCore is a free online music game where you create unique beats and melodies using a vibrant, nature-themed interface. Experiment with different sound combinations, record your mixes, and share your creations with the world. Play Sprunki GreenCore Now: [https://spunky.games/sprunki-greencore](https://spunky.games/sprunki-greencore)
+Sprunki GreenCore is a free online music game where you create unique beats and melodies using a vibrant, nature-themed interface. Experiment with different sound combinations, record your mixes, and share your creations with the world. Play Sprunki GreenCore Now: [sprunki-greencore](https://spunky.games/sprunki-greencore)
 
 ---
 
@@ -21,7 +21,7 @@ Sprunki GreenCore is a browser-based music creation game, offering a unique and 
 
 ## How to Play Sprunki GreenCore
 
-1. **Launch the Game:** Visit [https://spunky.games/sprunki-greencore](https://spunky.games/sprunki-greencore) to start playing instantly in your browser.
+1. **Launch the Game:** Visit [sprunki-greencore](https://spunky.games/sprunki-greencore) to start playing instantly in your browser.
 2. **Interact with the Environment:** Drag and drop the interactive elements onto the screen. These elements might represent different natural sounds, instruments, or musical loops.
 3. **Combine Sounds:** Experiment with combining various elements to create your unique soundscapes and melodies. Explore different rhythms and harmonies.
 4. **Record Your Mix:** Use the in-game recording functionality to capture your musical creations.
@@ -65,4 +65,4 @@ Sprunki GreenCore is a browser-based music creation game, offering a unique and 
 
 ---
 
-Explore the sounds of nature and create your own unique rhythms! Play Sprunki GreenCore now: [https://spunky.games/sprunki-greencore](https://spunky.games/sprunki-greencore)
+Explore the sounds of nature and create your own unique rhythms! Play Sprunki GreenCore now: [sprunki-greencore](https://spunky.games/sprunki-greencore)
