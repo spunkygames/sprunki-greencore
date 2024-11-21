@@ -21,7 +21,7 @@ Sprunki GreenCore is a browser-based music creation game, offering a unique and 
 
 ## How to Play Sprunki GreenCore
 
-1. **Launch the Game:** Visit [sprunki-greencore](https://spunky.games/sprunki-greencore) to start playing instantly in your browser.
+1. **Launch the Game:** Visit sprunki-greencore to start playing instantly in your browser.
 2. **Interact with the Environment:** Drag and drop the interactive elements onto the screen. These elements might represent different natural sounds, instruments, or musical loops.
 3. **Combine Sounds:** Experiment with combining various elements to create your unique soundscapes and melodies. Explore different rhythms and harmonies.
 4. **Record Your Mix:** Use the in-game recording functionality to capture your musical creations.
@@ -57,7 +57,7 @@ Sprunki GreenCore is a browser-based music creation game, offering a unique and 
 5. **Can I save my mixes?**  Saving options might vary; typically, you can save locally or potentially through online accounts, depending on the platform's features.
 6. **Does Sprunki GreenCore have different levels or stages?** The game might feature progression through unlocking new sounds and elements.  Check the game for specific details.
 7. **What was the inspiration for Sprunki GreenCore?**  The game draws inspiration from music creation tools and a focus on nature and environmental sounds. You might also enjoy similar games like [Sprunki InCredibox](https://sprunki.es/).
-8. **Where can I learn more about Spunky Games?** Visit the official Spunky Games website: [https://spunky.games](https://spunky.games).  For another game from Spunky Games, check out the [ESprunki Game](https://esprunki.com/).
+8. **Where can I learn more about Spunky Games?** Visit the official Spunky Games website: [spunky.games](https://spunky.games).  For another game from Spunky Games, check out the [ESprunki Game](https://esprunki.com/).
 9. **Is there a mobile app for Sprunki GreenCore?** While a dedicated app may not exist, you should be able to play the game through a mobile browser.
 10. **How can I contact the developers?**  Look for contact information on the game's website or related resources.
 
@@ -65,4 +65,4 @@ Sprunki GreenCore is a browser-based music creation game, offering a unique and 
 
 ---
 
-Explore the sounds of nature and create your own unique rhythms! Play Sprunki GreenCore now: [sprunki-greencore](https://spunky.games/sprunki-greencore)
+Explore the sounds of nature and create your own unique rhythms! Play Sprunki GreenCore.
